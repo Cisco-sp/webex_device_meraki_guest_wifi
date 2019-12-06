@@ -1,12 +1,13 @@
 <Extensions>
-  <Version>1.5</Version>
+  <Version>1.6</Version>
   <Panel>
     <PanelId>panel_2</PanelId>
     <Type>Statusbar</Type>
     <Icon>Language</Icon>
-    <Order>2</Order>
-    <Color>#666666</Color>
+    <Order>4</Order>
+    <Color>#07C1E4</Color>
     <Name>Guest WiFi</Name>
+    <ActivityType>Custom</ActivityType>
     <Page>
       <Name>Guest WiFi</Name>
       <Row>
